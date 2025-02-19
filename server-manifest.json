@@ -11,7 +11,7 @@
   ],
   "author": "GFYGO",
   "description": "",
-  "fileApi": "https://www.curseforge.com/minecraft/modpacks",
+  "fileApi": "https://modpack.gwl.net.cn",
   "files": [
     {
       "hash": "b8bc792b4ef5b77b8a11e9b7f74737f1d58f5cf6",
@@ -160,6 +160,10 @@
     {
       "hash": "fd151090615c255c2d0c8d0b5511c4c4d90f0f90",
       "path": "config/jei/ingredient-list-type-sort-order.ini"
+    },
+    {
+      "hash": "34f79f89b3581c64a9c430b78f2e92fab17b672c",
+      "path": "options.txt"
     },
     {
       "hash": "d47d254675d1aee18670aece5ed768e1e631517b",
