@@ -1,0 +1,415 @@
+{
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.16.5"
+    },
+    {
+      "id": "forge",
+      "version": "36.2.42"
+    }
+  ],
+  "author": "GFYGO",
+  "description": "",
+  "fileApi": "https://modpack.gwl.net.cn",
+  "files": [
+    {
+      "hash": "b8bc792b4ef5b77b8a11e9b7f74737f1d58f5cf6",
+      "path": "config/splash.properties"
+    },
+    {
+      "hash": "7ae1a74d78695252add9eede4b867179389dc97d",
+      "path": "config/fml.toml"
+    },
+    {
+      "hash": "6f46c3561248c2883d279a0fe3cf2fe4f1f4d504",
+      "path": "config/forge-client.toml"
+    },
+    {
+      "hash": "42f6994c80e3b8b0c9340745fceb3eec6124bd4d",
+      "path": "config/forge-common.toml"
+    },
+    {
+      "hash": "0adbc6be2336b3914abbceeb75f98b10371af81c",
+      "path": "config/ferritecore-mixin.toml"
+    },
+    {
+      "hash": "181314704b769633eceff23aab225dc186f29487",
+      "path": "config/avaritiauniversal-common.toml"
+    },
+    {
+      "hash": "b8cb646e03d46a0841f0c931b5c722ade9ea9d31",
+      "path": "config/appleskin-client.toml"
+    },
+    {
+      "hash": "c40ecad377e8f7233faeb046cc613caf34b19088",
+      "path": "config/Mekanism/client.toml"
+    },
+    {
+      "hash": "557f8b93a17bff03f0f38102c3cd679a8f2720c9",
+      "path": "config/ProjectE/client.toml"
+    },
+    {
+      "hash": "8e4d39d9442486e04f7a0dde92b11ee2e553fcc6",
+      "path": "config/ProjectE/common.toml"
+    },
+    {
+      "hash": "ced1cc8c861527088dbc58ef560145a10fac35b1",
+      "path": "config/tconstruct-client.toml"
+    },
+    {
+      "hash": "9efae4f8efb8f57fb6a476f1cd0a34bb41f6b136",
+      "path": "config/mcjtylib-client.toml"
+    },
+    {
+      "hash": "24071a980efcc71685e74e74563ef10d75ea6e87",
+      "path": "config/carryon-client.toml"
+    },
+    {
+      "hash": "8b545201d8a6364915a958507719904c3f59ba61",
+      "path": "config/jei-client.toml"
+    },
+    {
+      "hash": "1d2f23d9d054ac5991642e59fc6c0e01898dc725",
+      "path": "config/flywheel-client.toml"
+    },
+    {
+      "hash": "cb04276249826176df7d5b3dcb0eef950fbdefa7",
+      "path": "config/regen-client.toml"
+    },
+    {
+      "hash": "4a08c018535b8a045ae5206b7e061e12852612d0",
+      "path": "config/mantle-client.toml"
+    },
+    {
+      "hash": "b64fe56489901fdf7510c0f88b576bd872e2ffd3",
+      "path": "config/veinmining-client.toml"
+    },
+    {
+      "hash": "a928e879913c1a312656424edda848fb5de1ae16",
+      "path": "config/xnet-client.toml"
+    },
+    {
+      "hash": "454a7c0b828ab053d17eec57e0ebf0dd49c4ef12",
+      "path": "config/tardis-client.toml"
+    },
+    {
+      "hash": "0f5483fff189af3a50d272d6a896e8eec01e3ef9",
+      "path": "config/create-client.toml"
+    },
+    {
+      "hash": "35193258b833ad8ec4b4427ea7edfc865881473d",
+      "path": "config/tconstruct-common.toml"
+    },
+    {
+      "hash": "5a1913905a5bd55623eee5962a7ebd67ceb553dd",
+      "path": "config/futurepack-common.toml"
+    },
+    {
+      "hash": "6917bee08784854c07cdcd03f27a9a9f598b7dd7",
+      "path": "config/regen-common.toml"
+    },
+    {
+      "hash": "9564e80e84df04bba94b5ea173e1de0c716b14b0",
+      "path": "config/rftoolsbase-common.toml"
+    },
+    {
+      "hash": "6917bee08784854c07cdcd03f27a9a9f598b7dd7",
+      "path": "config/regen-common-1.toml.bak"
+    },
+    {
+      "hash": "28d71f21ebb38db5d866150ad6f374fc2d48d0d5",
+      "path": "config/yuoenchants-common.toml"
+    },
+    {
+      "hash": "6917bee08784854c07cdcd03f27a9a9f598b7dd7",
+      "path": "config/regen-common-2.toml.bak"
+    },
+    {
+      "hash": "e249ecbbfa94210e242ea32a77acdc399d985aad",
+      "path": "config/tardis-common.toml"
+    },
+    {
+      "hash": "1b46545d4f68427c2c1f08c4a1c7fd3a5b7e8660",
+      "path": "config/create-common.toml"
+    },
+    {
+      "hash": "01a120e382a90f072868ccac0731a959766dcae4",
+      "path": "config/space-bosstools-config.json"
+    },
+    {
+      "hash": "6917bee08784854c07cdcd03f27a9a9f598b7dd7",
+      "path": "config/regen-common-3.toml.bak"
+    },
+    {
+      "hash": "6917bee08784854c07cdcd03f27a9a9f598b7dd7",
+      "path": "config/regen-common-4.toml.bak"
+    },
+    {
+      "hash": "6917bee08784854c07cdcd03f27a9a9f598b7dd7",
+      "path": "config/regen-common-5.toml.bak"
+    },
+    {
+      "hash": "37e1f687b23969b961ac7d4c306fde31941e6301",
+      "path": "config/jei/recipe-category-sort-order.ini"
+    },
+    {
+      "hash": "08357353fab300dc34157443ba133712c9e31fff",
+      "path": "config/jei/ingredient-list-mod-sort-order.ini"
+    },
+    {
+      "hash": "fd151090615c255c2d0c8d0b5511c4c4d90f0f90",
+      "path": "config/jei/ingredient-list-type-sort-order.ini"
+    },
+    {
+      "hash": "34f79f89b3581c64a9c430b78f2e92fab17b672c",
+      "path": "options.txt"
+    },
+    {
+      "hash": "d47d254675d1aee18670aece5ed768e1e631517b",
+      "path": "log4j2.xml"
+    },
+    {
+      "hash": "500194c956742bd2af002eafd01527a3a611d90d",
+      "path": "mods/[1.16]_Regeneration-36.0.6.jar"
+    },
+    {
+      "hash": "eedbba977def58ce87d23e32391c01692121da86",
+      "path": "mods/appleskin-forge-mc1.16.x-2.5.1.jar"
+    },
+    {
+      "hash": "4bf2e650fd7fa92446d2cb22d97f851d38e6662a",
+      "path": "mods/Avaritia-1.16.5-2.1.11-universal-pre-final.jar"
+    },
+    {
+      "hash": "f6abb530be1cd5eaa1daf3c23a364992032bcafb",
+      "path": "mods/carryon-1.16.5-1.15.6.24.jar"
+    },
+    {
+      "hash": "422e4f65872bf8babfa139094b7cb242e9f9f434",
+      "path": "mods/cloth-config-forge-4.16.91.jar"
+    },
+    {
+      "hash": "5b32b0310d037deed14200e3b748bd02d46d9471",
+      "path": "mods/create-mc1.16.5_v0.3.2g.jar"
+    },
+    {
+      "hash": "3ae8dbe663156a8dec621d255856356444586905",
+      "path": "mods/ferritecore-2.1.1-forge.jar"
+    },
+    {
+      "hash": "30dbb119ce3d455bee065c0bef04a00827b3a5b3",
+      "path": "mods/flywheel-1.16-0.2.5.jar"
+    },
+    {
+      "hash": "1edcec853566c95ca7d6363c616b63d379a80fcb",
+      "path": "mods/Futurepack-1.16.5-31.3.7005.jar"
+    },
+    {
+      "hash": "8448844f6d35dbbead0050f3e255781000d62c60",
+      "path": "mods/jei-1.16.5-7.8.0.1013.jar"
+    },
+    {
+      "hash": "64b7176913bd01fb47136fa0e137fdcf53503f22",
+      "path": "mods/kotlinforforge-351264-3527736.jar"
+    },
+    {
+      "hash": "61cd1d256a29445d153bd076e090f6172eff2aff",
+      "path": "mods/Mantle-1.16.5-1.6.157.jar"
+    },
+    {
+      "hash": "0ddbcd55b80a231e958bc114b76981028d999d9f",
+      "path": "mods/mcjtylib-1.16-5.1.8.jar"
+    },
+    {
+      "hash": "e7ec62394e8ac4b254c4e7cc57360903d7c35980",
+      "path": "mods/Mekanism-1.16.5-10.1.2.457.jar"
+    },
+    {
+      "hash": "a06fc70c114fcf2dbdab8d9144e0e6d6df5bd424",
+      "path": "mods/obfuscate-0.6.3-1.16.5.jar"
+    },
+    {
+      "hash": "09e1fdfdc301967b36284b8bcad57b5614fa38ae",
+      "path": "mods/ProjectE-1.16.5-PE1.0.2.jar"
+    },
+    {
+      "hash": "78f2d9172ceac9d169f20387895a607ac2404e0e",
+      "path": "mods/rftoolsbase-1.16-2.1.5.jar"
+    },
+    {
+      "hash": "f7f63ece8d381c850ecda591a0fc7b0e45221f05",
+      "path": "mods/Space-BossTools-1.16.5-5.5e.jar"
+    },
+    {
+      "hash": "91e0eaf370de4e176d4277fbe251cf9175686a71",
+      "path": "mods/Tardis-Mod-1.16.5-1.5.4.jar"
+    },
+    {
+      "hash": "bfccf8cb255bc64101c0ae27cac7f3b386b88078",
+      "path": "mods/TConstruct-1.16.5-3.3.4.335.jar"
+    },
+    {
+      "hash": "529997174b1bb9bf4ddd661dc8b857e4b7d86e06",
+      "path": "mods/veinmining-forge-1.16.5-0.18.jar"
+    },
+    {
+      "hash": "572333f9f1b3031a5ab54511ffe9d3ed32d0adea",
+      "path": "mods/xnet-1.16-3.0.17.jar"
+    },
+    {
+      "hash": "1ce76fce2e71d7b38840077594aca38a2a329da3",
+      "path": "mods/YuoMoreEnchants-1.16.5-1.4.4.jar"
+    },
+    {
+      "hash": "f26816c4138e6edc657bf15bcd5c3bd50552d78c",
+      "path": "mods/SimpleLogin-1.16-1.1.3.jar.disabled"
+    },
+    {
+      "hash": "6feb74d3875cf21e9b23e71d175c100845fe3eca",
+      "path": "regeneration_skins/skins/timelord/female/timelord_female_vmXha.png"
+    },
+    {
+      "hash": "383f15048777e1fbfc35833d9bbde95ae0cd5e05",
+      "path": "regeneration_skins/skins/timelord/female/timelord_female_GxUSE.png"
+    },
+    {
+      "hash": "6b6d67e0bec68040170653c933953877ee8a8493",
+      "path": "regeneration_skins/skins/timelord/female/timelord_female_rOFDb.png"
+    },
+    {
+      "hash": "32c229c383493721ae0102e1525e721e0e620f3d",
+      "path": "regeneration_skins/skins/timelord/female/timelord_female_FGUvj.png"
+    },
+    {
+      "hash": "1ddcc22b4d8cdf542181263e0051133247dd6f87",
+      "path": "regeneration_skins/skins/timelord/female/timelord_female_IHrUb.png"
+    },
+    {
+      "hash": "80d3605f53c108dc1064ff255f2b1ef065531f42",
+      "path": "regeneration_skins/skins/timelord/female/timelord_female_NOBKh.png"
+    },
+    {
+      "hash": "c26ed320d73667be43c330d8ce8d79d72be200a1",
+      "path": "regeneration_skins/skins/timelord/female/timelord_female_nSBLS.png"
+    },
+    {
+      "hash": "b0f9d94a7f5674d4e697266b2b68dfe54aa33f3c",
+      "path": "regeneration_skins/skins/timelord/female/timelord_female_rksLw.png"
+    },
+    {
+      "hash": "dd797362d0f6da540940973eb2a97686aef3720f",
+      "path": "regeneration_skins/skins/timelord/female/timelord_female_pLVUf.png"
+    },
+    {
+      "hash": "6ab68234b137162b362de336740494ba6f9a86c3",
+      "path": "regeneration_skins/skins/timelord/female/timelord_female_lDFkB.png"
+    },
+    {
+      "hash": "d62bbd557557ca1a76e65680b843f0b1e7f867aa",
+      "path": "regeneration_skins/skins/timelord/female/timelord_female_gBOqY.png"
+    },
+    {
+      "hash": "903b5862e7380e42974d1b71ae04f253971ac72a",
+      "path": "regeneration_skins/skins/timelord/female/timelord_female_UfAoy.png"
+    },
+    {
+      "hash": "19cfaf79bab324b389d37216537f141faf87353b",
+      "path": "regeneration_skins/skins/timelord/female/timelord_female_yjAQd.png"
+    },
+    {
+      "hash": "4ec80a8cf6e41486c24b15c2fcdae521bd229936",
+      "path": "regeneration_skins/skins/timelord/female/timelord_female_cxznE.png"
+    },
+    {
+      "hash": "a64e8405f4cd52ae31c507f2fbf693c7c551ce87",
+      "path": "regeneration_skins/skins/timelord/female/timelord_female_nJEjp.png"
+    },
+    {
+      "hash": "4a8cc9745054a1de249e01f65fcb0ca721a5a131",
+      "path": "regeneration_skins/skins/timelord/female/timelord_female_uHbQv.png"
+    },
+    {
+      "hash": "a674b454f4d23903d141d433f84080b6d7e5694b",
+      "path": "regeneration_skins/skins/timelord/male/timelord_male_CjTIx.png"
+    },
+    {
+      "hash": "98441d7ea7de5bb84b99f5421693d71e9f9903fc",
+      "path": "regeneration_skins/skins/timelord/male/timelord_male_ffGSm.png"
+    },
+    {
+      "hash": "57af6f14a5a562d0bcd3dfda26f2d12149d7b0a9",
+      "path": "regeneration_skins/skins/timelord/male/timelord_male_DBLfy.png"
+    },
+    {
+      "hash": "220f62f497b3d88291ccf800b59cecb04bfe0d36",
+      "path": "regeneration_skins/skins/timelord/male/timelord_male_tvZNv.png"
+    },
+    {
+      "hash": "5a55c91655c8bf97d620c96075cfd3f31d090c51",
+      "path": "regeneration_skins/skins/timelord/male/timelord_male_kRsMZ.png"
+    },
+    {
+      "hash": "799719e3d5c6bcffff22071d232526934bc28dac",
+      "path": "regeneration_skins/skins/timelord/male/timelord_male_EVuDb.png"
+    },
+    {
+      "hash": "6ac337f3493d8923f68cc94e735be8b49f9076ab",
+      "path": "regeneration_skins/skins/timelord/male/timelord_male_rZvJn.png"
+    },
+    {
+      "hash": "5ebee7c40cd3a9c603280c7b2d818d96f37a9929",
+      "path": "regeneration_skins/skins/timelord/male/timelord_male_TBdlC.png"
+    },
+    {
+      "hash": "7a284178c45006ccf472e7987500311df8e31d58",
+      "path": "regeneration_skins/skins/timelord/male/timelord_male_MyNGi.png"
+    },
+    {
+      "hash": "86bf82741477fcb847beedcb0d887229ac39ff95",
+      "path": "regeneration_skins/skins/timelord/male/timelord_male_nmHiL.png"
+    },
+    {
+      "hash": "8a1c8d12250ce8e1d5c2cf7e0ffd9bf7cf9693eb",
+      "path": "regeneration_skins/skins/timelord/male/timelord_male_rbrrS.png"
+    },
+    {
+      "hash": "f2a0118bd4fb01bbb091315d2c918199093a6a3e",
+      "path": "regeneration_skins/skins/timelord/male/timelord_male_OOJUq.png"
+    },
+    {
+      "hash": "80725e2ee2f621f3fc71c6404cd53637df6f3453",
+      "path": "regeneration_skins/skins/timelord/male/timelord_male_bWdGb.png"
+    },
+    {
+      "hash": "cfb371eb7bde531983c5ae1d850e528855b911ba",
+      "path": "regeneration_skins/skins/timelord/male/timelord_male_gnMYN.png"
+    },
+    {
+      "hash": "06e695fe2f3ef961fdaf2c407e4d82de6200c2ec",
+      "path": "regeneration_skins/skins/timelord/male/timelord_male_MAHfi.png"
+    },
+    {
+      "hash": "46e84436697195bc65b0a1ccb36fd94c627d49b1",
+      "path": "regeneration_skins/skins/timelord/male/timelord_male_JRcfq.png"
+    },
+    {
+      "hash": "adf723f2391c4e51a840c6604a2abe1e1ff07219",
+      "path": "regeneration_skins/skins/cache_tracker.json"
+    },
+    {
+      "hash": "927b48f09811bdb5c8ec6815e15499251bf0ccec",
+      "path": "fclversion.cfg"
+    },
+    {
+      "hash": "66c2f946cac7eca0f59f03f9d99535b604db572a",
+      "path": "servers.dat"
+    },
+    {
+      "hash": "6c36ccd9f8587f7889398b8d9996040dfe82bbf1",
+      "path": "servers.dat_old"
+    }
+  ],
+  "name": "gfygo",
+  "version": "1.0"
+}

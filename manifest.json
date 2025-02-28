@@ -1,0 +1,18 @@
+{
+  "author": "GFYGO",
+  "files": [],
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "minecraft": {
+    "version": "1.16.5",
+    "modLoaders": [
+      {
+        "id": "forge-36.2.42",
+        "primary": true
+      }
+    ]
+  },
+  "name": "1.16.5",
+  "overrides": "overrides",
+  "version": "1.0"
+}
